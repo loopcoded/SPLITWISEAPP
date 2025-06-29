@@ -5,8 +5,9 @@
 [![Compose](https://img.shields.io/badge/Jetpack%20Compose-1.5.0-purple.svg)](https://developer.android.com/jetpack/compose)  
 
 Smart Expense Splitter is an Android application designed to simplify the way groups manage and split shared expenses. Whether it’s a trip, dinner outing, or household bills, this app lets users create expense groups, record transactions with optional discount and GST, and automatically calculates each member’s share.
-  <img src="assets/splitbills.png" width="100" height="200"/>
-
+<p>
+  <img src="assets/splitbills.png" width="150" height="250"/>
+</p>
 ---
 
 ## 🚀 Features
@@ -29,9 +30,9 @@ Smart Expense Splitter is an Android application designed to simplify the way gr
 - **Visual Feedback**  
   Centered animations on successful creation (✅) and deletion (❌) of groups.  
   
-  <img src="assets/create_animation.png" width="100" height="200"/>
+  <img src="assets/create_animation.png" width="150" height="250"/>
 
-  <img src="assets/delete_animation.png" width="100" height="200"/>
+  <img src="assets/delete_animation.png" width="150" height="250"/>
 
 
 ---
@@ -53,15 +54,18 @@ Smart Expense Splitter is an Android application designed to simplify the way gr
    - Fill in: Group Name, Participants, Title, Amount Paid, Paid By, Date  
    - (Optional) Discount and GST  
    - Tap **Add Group** → you see a green check in the center  
-
-   <img src="assets/create_group_demo.png" width="100" height="200"/>
+   <p>
+   <img src="assets/create_group_demo.png" width="150" height="250"/>
+   </p>
 
 
 2. **View Groups**  
    - Tap **View Groups**  
    - Scroll through your groups  
    - Tap the arrow to expand details; tap trash to delete → you see a red cross in the center  
-   <img src="assets/view_groups_demo.png" width="100" height="200"/>
+   <p>
+   <img src="assets/view_groups_demo.png" width="150" height="250"/>
+   </p>
 
 
 ---
