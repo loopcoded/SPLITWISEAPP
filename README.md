@@ -6,7 +6,7 @@
 
 Smart Expense Splitter is an Android application designed to simplify the way groups manage and split shared expenses. Whether it’s a trip, dinner outing, or household bills, this app lets users create expense groups, record transactions with optional discount and GST, and automatically calculates each member’s share.
 <p>
-  <img src="assets/splitbills.png" width="150" height="250"/>
+  <img src="assets/splitbills.png" width="150" height="300"/>
 </p>
 ---
 
@@ -30,9 +30,9 @@ Smart Expense Splitter is an Android application designed to simplify the way gr
 - **Visual Feedback**  
   Centered animations on successful creation (✅) and deletion (❌) of groups.  
   
-  <img src="assets/create_animation.png" width="150" height="250"/>
+  <img src="assets/create_animation.png" width="150" height="300"/>
 
-  <img src="assets/delete_animation.png" width="150" height="250"/>
+  <img src="assets/delete_animation.png" width="150" height="300"/>
 
 
 ---
@@ -55,7 +55,7 @@ Smart Expense Splitter is an Android application designed to simplify the way gr
    - (Optional) Discount and GST  
    - Tap **Add Group** → you see a green check in the center  
    <p>
-   <img src="assets/create_group_demo.png" width="150" height="250"/>
+   <img src="assets/create_group_demo.png" width="150" height="300"/>
    </p>
 
 
@@ -64,7 +64,7 @@ Smart Expense Splitter is an Android application designed to simplify the way gr
    - Scroll through your groups  
    - Tap the arrow to expand details; tap trash to delete → you see a red cross in the center  
    <p>
-   <img src="assets/view_groups_demo.png" width="150" height="250"/>
+   <img src="assets/view_groups_demo.png" width="150" height="300"/>
    </p>
 
 
